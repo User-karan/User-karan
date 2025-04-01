@@ -1,4 +1,4 @@
-## Hi there I am Karan
+## Hi there I am Karan 👋
 
 <!--
 **User-karan/User-karan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
