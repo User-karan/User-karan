@@ -1,22 +1,10 @@
 ## Hi there I am Karan 👋
 
-<!--
-**User-karan/User-karan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I’m Karan Lama Gurung.
+I’m currently pursuing a Bachelor’s degree in Information Technology at Informatics College Pokhara, where I’m in my second year. Over the past two years, I’ve been building a strong foundation in coding, especially in Java and Python. Recently, I’ve started exploring web development and I’m excited to keep learning and growing in this area.
 
-Here are some ideas to get you started:
+Beyond academics, I’m passionate about technology, enjoy playing games, traveling, and diving into new topics out of curiosity. I’m eager to connect with others in the tech space, not just to learn, but to collaborate, share ideas, and work on real-world projects together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- Hello world I am Karan Lama Gurung currently studying BIT in Informatics College Pokhara. I am currently on my second year gaining plenty of basic coding kowledge and concepts. I am currently exploring web-development and stuffs.
-I want to expand my knowledge and learn from others. 
-I like to play games, travel and research about new things. 
-Currently i have a good amount of knowledge and concepts in coding of languages like java and python.
-And i want to join the developer community to implement my skills more practically and work with my peers. 
-I want to learn and explore new things.
+I’m actively looking to be part of a developer or tech community where I can apply what I’ve learned, gain practical experience, and continue expanding my knowledge.
+
+
